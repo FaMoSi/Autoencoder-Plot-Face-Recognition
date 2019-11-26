@@ -3,4 +3,4 @@
 - - -
 This face recognition program uses the **latent space of an autoencoder** trained in an unsupervised fashion for the feature extraction process.
 
-For more info see the "notebook.jynb"
+For more info see the **"notebook.ipynb"** file.
